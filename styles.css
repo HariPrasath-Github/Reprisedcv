@@ -1,0 +1,18 @@
+body{
+    background-color: #FFF5DA;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: grey;
+    width: 70px;
+  
+}
+h1{
+    color: #402218;
+    font-family: "garamond";
+}
+h3{
+    color: #402218;
+    font-family: "georgia";
+}
